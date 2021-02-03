@@ -16,7 +16,7 @@ public class Purchases {
 
 
     public void getTotalPrice(){
-        Object totalPrice = sum(price);
+
     }
 
     public List<ArrayList<GroceryItem>> getGroceryNames(){
